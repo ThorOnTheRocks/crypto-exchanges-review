@@ -1,0 +1,2 @@
+class CryptoExchange < ApplicationRecord
+end
